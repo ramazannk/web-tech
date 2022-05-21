@@ -1,0 +1,16 @@
+
+.header{
+    display: flex;
+    justify-content: space-between;
+
+    &__wrapper{
+        display: flex;
+        justify-content: space-between;
+        width: 540px;
+        font-style: bold;
+        font-size: 28px;
+        color: rgba(61, 144, 144, 1);
+        
+    }
+    
+}
